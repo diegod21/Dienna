@@ -2,7 +2,7 @@
   "name": "diego_gi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/diegod21/Dienna",
+  "homepage": "https://github.com/Dienna",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
