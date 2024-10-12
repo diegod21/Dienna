@@ -15,9 +15,20 @@ import image9 from './Images/9.jpg';
 import image10 from './Images/10.jpg';
 import image11 from './Images/11.jpg';
 import image12 from './Images/12.jpg';
+import image13 from './Images/13.jpg';
+import image14 from './Images/14.jpg';
+import image15 from './Images/15.jpg';
+import image16 from './Images/16.jpg';
+import image17 from './Images/17.jpg';
+import image18 from './Images/18.jpg';
+import image19 from './Images/19.jpg';
+import image20 from './Images/20.jpg';
+import image21 from './Images/21.webp';
+import image22 from './Images/22.jpg';
 
 const images = [
-  image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12
+  image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12,
+  image13, image14, image15, image16, image17, image18, image19, image20, image21, image22
 ];
 
 function App() {
