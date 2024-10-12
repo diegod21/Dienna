@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dienna/static/css/main.0193b8e9.css",
-    "main.js": "/Dienna/static/js/main.b6e80503.js",
+    "main.css": "/Dienna/static/css/main.6c30b62a.css",
+    "main.js": "/Dienna/static/js/main.84b38ded.js",
     "static/js/453.bafe2f35.chunk.js": "/Dienna/static/js/453.bafe2f35.chunk.js",
     "static/media/22.jpg": "/Dienna/static/media/22.37618c2a2404c13d1d82.jpg",
     "static/media/20.jpg": "/Dienna/static/media/20.2a2f10c8bbb326c0c148.jpg",
@@ -26,12 +26,12 @@
     "static/media/21.webp": "/Dienna/static/media/21.84eff27ec30b628d9b3f.webp",
     "static/media/7.jpg": "/Dienna/static/media/7.92989d9185c64bb6bd32.jpg",
     "index.html": "/Dienna/index.html",
-    "main.0193b8e9.css.map": "/Dienna/static/css/main.0193b8e9.css.map",
-    "main.b6e80503.js.map": "/Dienna/static/js/main.b6e80503.js.map",
+    "main.6c30b62a.css.map": "/Dienna/static/css/main.6c30b62a.css.map",
+    "main.84b38ded.js.map": "/Dienna/static/js/main.84b38ded.js.map",
     "453.bafe2f35.chunk.js.map": "/Dienna/static/js/453.bafe2f35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0193b8e9.css",
-    "static/js/main.b6e80503.js"
+    "static/css/main.6c30b62a.css",
+    "static/js/main.84b38ded.js"
   ]
 }
