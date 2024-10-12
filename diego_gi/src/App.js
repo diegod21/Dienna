@@ -66,25 +66,27 @@ function App() {
 
   return (
     <div className="App">
-      <div className="Picture">
-        <Carousel>
-          {images.map((image, index) => (
-            <Carousel.Item key={index}>
-              <img
-                className="d-block w-100"
-                src={image}
-                alt={`Slide ${index + 1}`}
-              />
-              <Carousel.Caption></Carousel.Caption>
-            </Carousel.Item>
-          ))}
-        </Carousel>
-      </div>
-      <div className='text'>
-        {`${timeDiff.months} Meses, ${timeDiff.days} Dias, ${timeDiff.hours} Horas, ${timeDiff.minutes} Minutos, ${timeDiff.seconds} Segundos`}
-      </div>
-      <div className='text'>
-        Para lembrar do dia que tomei a melhor decisão que eu já fiz.
+        <div className="Picture">
+          <Carousel>
+            {images.map((image, index) => (
+              <Carousel.Item key={index}>
+                <img
+                  className="d-block w-100"
+                  src={image}
+                  alt={`Slide ${index + 1}`}
+                />
+                <Carousel.Caption></Carousel.Caption>
+              </Carousel.Item>
+            ))}
+          </Carousel>
+        </div>
+      <div class="downPage">
+        <div className='text'>
+          {`${timeDiff.months} Meses, ${timeDiff.days} Dias, ${timeDiff.hours} Horas, ${timeDiff.minutes} Minutos, ${timeDiff.seconds} Segundos`}
+        </div>
+        <div className='text'>
+          Para lembrar do dia que tomei a melhor decisão que eu já fiz.
+        </div>
       </div>
     </div>
   );

@@ -1,7 +1,6 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
-
   color: white;
 }
 
@@ -9,29 +8,28 @@
   background-color: rgb(12, 12, 138);
   height: 100vh;
   width: 100vw;
-
   display: flex;
   flex-direction: column;
-  justify-content: start;
 }
 
-.Picture{
-  margin-top: 20%;
+.Picture {
+  margin-top: 5%;
   max-height: 70%;
-  width: 40%;
-  background-color: #282c34;
-
+  max-width: 80%;
+  background-color: rgb(12, 12, 138);
   align-self: center;
+  justify-content: flex-start;
 }
-.Picture img{
-  max-height: 70%;
+
+.Picture img {
+  height: 70vh;
   object-fit: cover; 
 }
-.text{
+
+.text {
   text-align: center;
+  margin: 10px; /* Espaçamento em volta do texto */
 }
-
-
 
 .App-header {
   background-color: #282c34;
@@ -47,5 +45,3 @@
 .App-link {
   color: #61dafb;
 }
-
-
