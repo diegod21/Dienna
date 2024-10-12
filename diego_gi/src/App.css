@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+  color: white;
+}
+
+.App {
+  background-color: rgb(12, 12, 138);
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.Picture{
+  margin-top: 20%;
+  max-height: 70%;
+  width: 40%;
+  background-color: #282c34;
+
+  align-self: center;
+}
+.Picture img{
+  max-height: 70%;
+  object-fit: cover; 
+}
+.text{
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
